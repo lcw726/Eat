@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">今天吃什麼</string>
+    <string name="account">帳號</string>
+    <string name="pw">密碼</string>
+    <string name="account_hint">請輸入帳號</string>
+    <string name="pw_hint">請輸入密碼</string>
+    <string name="login">登入</string>
+    <string name="random">隨機選店家</string>
+    <string name="newstore">新增店家</string>
+    <string name="store_info_title">【店家資訊】</string>
+    <string name="store_name">店名：</string>
+    <string name="store_tel">訂購專線：</string>
+    <string name="store_add">店家地址：</string>
+    <string name="menu">菜單：</string>
+    <string name="open">我要開團</string>
+    <string name="with">我要跟團</string>
+    <string name="tel">電話</string>
+    <string name="uplaod">上傳菜單</string>
+    <string name="confirm">確定</string>
+    <string name="cancel">取消</string>
+    <string name="stop_time">團購截止時間</string>
+    <string name="arrive_time">預計到達時間</string>
+    <string name="get_place">取貨地點</string>
+    <string name="notice">注意事項</string>
+    <string name="open_list_title">【進行中的團購】</string>
+    <string name="newstore_title">【我要新增店家】</string>
+    <string name="newopen_title">【我要開團】</string>
+    <string name="neworder_title">【我要點餐】</string>
+    <string name="item">品項</string>
+    <string name="quantity">數量</string>
+    <string name="price">價錢</string>
+    <string name="remark">備註</string>
+    <string name="myorder">【我的團購】</string>
+    <string name="myopen">§我開的團§</string>
+    <string name="inform">通知</string>
+    <string name="mywith">§我跟的團§</string>
+    <string name="budget_title">【咱們來算錢】</string>
+    <string name="ok">付款完成</string>
+    <string name="state">付款狀態</string>
+    <string name="clear">清除</string>
+    <string name="unpaid">未付清</string>
+    <string name="button_notify">通知</string>
+
+</resources>
